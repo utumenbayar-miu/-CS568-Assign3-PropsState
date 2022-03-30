@@ -1,6 +1,6 @@
 # CS568 - Assignment 3 - Props and State
 - Implement Advanced Hello.
-- Implement Make Older.
+- Implement Counter.
 - Implement Todo app.
 
 ```
