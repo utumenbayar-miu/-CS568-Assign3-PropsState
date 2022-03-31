@@ -10,5 +10,3 @@ App (root component)
 │     ├─ TodoDeleteButton
 └─ TodoFooter
 ```
-
-Once you tested and finished each task, copy the App.js and rename the copy "AppAdvancedHello.js" and  "AppCounter.js" accordingly. The start on a fresh App.js for the next task.
