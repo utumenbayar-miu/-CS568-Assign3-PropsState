@@ -5,10 +5,11 @@
 - Implement the Todo app. All your data is in your App.js. Pass `todoItems` array down to TodoItem component. When click on the delete button, remove the todo item from the todo list.
 
 ```
-App (root component)
-├─ TodoList
+App (tasks, addTask(), deleteTask())
+├─ TodoAdd (newTask, addTaskOnClick())
+├─ TodoList (isShown)
 │  └─ TodoItem
 │     ├─ TodoDeleteButton
-│     └─ TodoEditButton (skip it for now)
+│     └─ TodoEditButton (extra)
 └─ TodoFooter
 ```
