@@ -1,4 +1,4 @@
-# CS568 - Assignment 3 - Props and State
+# CS568 - Assignment 3, 4 - Props, State, Event Handler, List, Conditionals
 - Implement the Advanced Hello example, both class and functional way.
 - Implement the Counter example with increment and decrement, both class and functional (using a hook) way.
 - Implement the "buttons" demo in class, both class and functional (using a hook) way.
